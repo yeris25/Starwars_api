@@ -1,0 +1,54 @@
+.banner {
+    background-image: url("../img/Banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20%;
+
+}
+
+.my-5 {
+    background-color: darkslategray;
+}
+
+.container {
+    background-color: aliceblue;
+}
+
+
+.navbar-brand {
+
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.canciones {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.titulo {
+    text-align: center;
+
+    margin-bottom: 10px;
+}
+
+.title {
+    background-color: black;
+    text-align: center;
+
+
+    color: white;
+}
+
+.h1 {
+    background-color: black;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    color: white;
+}
